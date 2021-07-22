@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋,mi nombre es Juan David Daza</h1>
 <h3 align="center">Soy Ingeniero de sistemas de la ciudad de Cali-Colombia</h3>
 
-- 🌱 Actualmente estoy aprendiendo para ser **Full  Mean Stack y la herramienta Docker**
+- 🌱 Actualmente estoy aprendiendo para ser **Full  Mean Stack y para usar la herramienta Docker**
 
 - 🤝 Realice un Proyecto de gestión de Eventos para la Universidad en que estudie - [Sistema de Gestión de Eventos para la Universidad Libre](http://190.143.117.134/)
 
