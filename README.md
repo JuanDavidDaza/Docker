@@ -4,7 +4,7 @@
 
 - 🌱 Actualmente estoy aprendiendo para ser **Full  Mean Stack y para usar la herramienta Docker**
 
-- 🤝 Realice un Proyecto de gestión de Eventos para la Universidad en que estudie - [Sistema de Gestión de Eventos para la Universidad Libre](http://190.143.117.134/)
+- 🤝 Realice un Proyecto de gestión de Eventos para la Universidad en que estudie - [Sistema de Gestión de Eventos para la Universidad Libre (Proceso de Pruebas)](http://190.143.117.134/)
 
 - 📫 email **Juandavid5845@hotmail.com - juanda7473@gmail.com**
 
